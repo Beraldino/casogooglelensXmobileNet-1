@@ -1,0 +1,21 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.test_image_and_result {
+   background-color: rgba(0, 0, 0, 0.548);
+}
+li {
+    list-style: none;
+}
+.mobilenet {
+    font-size: 30px;
+    border-radius: 20px;
+}
+.go {
+    background-color: white;
+    border-radius: 20px;
+}
+.mo {
+    background-color: white;
+    border-radius: 20px;
+}
